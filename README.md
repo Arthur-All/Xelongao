@@ -13,16 +13,16 @@
 
 >Como Kogu não é muito bom em contas, ele pediu para você escrever um programa que dado o total de esferas existentes, mostre a quantidade mínima de esferas que ele precisa procurar.
 
-Entrada
-A primeira linha consiste de um inteiro C que representa a quantidade de casos de teste. As linhas subsequentes contém um inteiro N (2 ≤ N ≤ 109) que representa a quantidade de esferas necessárias para invocar Xenlongão.
+###Entrada
+>A primeira linha consiste de um inteiro C que representa a quantidade de casos de teste. As linhas subsequentes contém um inteiro N (2 ≤ N ≤ 109) que representa a quantidade de esferas necessárias para invocar Xenlongão.
 
-Saída
-Seu programa deve exibir a quantidade mínima de esferas que Kogu tem que procurar.
+###Saída
+>Seu programa deve exibir a quantidade mínima de esferas que Kogu tem que procurar.
 
  
-Exemplo de Entrada	
-1
-7
+###Exemplo de Entrada	
+#1
+#7
 
-Exemplo de Saída
-5
+###Exemplo de Saída
+#5
