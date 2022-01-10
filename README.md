@@ -22,7 +22,7 @@
  
 ## Exemplo de Entrada	
 ### 1
-# 7
+### 7
 
 ## Exemplo de Saída
 ### 5
